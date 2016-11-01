@@ -48,7 +48,7 @@ def contains(origin, text):
 client = discord.Client()
 
 # bot prefix
-PREFIX = '!'
+PREFIX = '$'
 
 # Two dictionaries (prefix commands and text triggers) of basic things for the bot to return. More complex (i.e.
 # data-driven) interactions aren't stored here, those go below.
